@@ -1,4 +1,4 @@
-# OmniGenome: A Comprehensive Toolkit of Genomic Modeling and Benchmarking 
+# OmniGenome: A Comprehensive Toolkit of RNA and DNA Foundation Models Benchmarking 
 
 # Introduction
 OmniGenome is a comprehensive toolkit for genomic modeling and benchmarking.
